@@ -1,7 +1,7 @@
 # RevOps: Genomics Inc Revenue Data Platform
 
-<!-- Replace {org} and {project} with your Azure DevOps organization and project, and {id} with the pipeline definition id. -->
-[![Build Status](https://dev.azure.com/{org}/{project}/_apis/build/status/revops-ci?branchName=main)](https://dev.azure.com/{org}/{project}/_build/latest?definitionId={id}&branchName=main)
+<!-- Replace {org} with your Azure DevOps organization and {definitionId} with the pipeline id. Both appear in the pipeline's URL. -->
+[![Azure Pipelines](https://img.shields.io/azure-devops/build/{org}/revops/{definitionId}?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDEyQzEwIDkgOC41IDguMiA2LjggOC4yQTMuOCAzLjggMCAxIDAgNi44IDE1LjhDOC41IDE1LjggMTAgMTUgMTIgMTJDMTQgOSAxNS41IDguMiAxNy4yIDguMkEzLjggMy44IDAgMSAxIDE3LjIgMTUuOEMxNS41IDE1LjggMTQgMTUgMTIgMTJaIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4%3D&label=azure%20pipelines)](https://dev.azure.com/{org}/revops/_build/latest?definitionId={definitionId}&branchName=main)
 
 ## Case study
 
