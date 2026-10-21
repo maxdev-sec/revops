@@ -1,4 +1,4 @@
-# RevOps: Genomics Inc revenue data platform
+# RevOps: Genomics Inc Revenue Data Platform
 
 <!-- Replace {org} and {project} with your Azure DevOps organization and project, and {id} with the pipeline definition id. -->
 [![Build Status](https://dev.azure.com/{org}/{project}/_apis/build/status/revops-ci?branchName=main)](https://dev.azure.com/{org}/{project}/_build/latest?definitionId={id}&branchName=main)
