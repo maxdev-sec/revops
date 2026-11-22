@@ -1,0 +1,18 @@
+
+# Data stays out of git (~/Developer/CLAUDE.md)
+.env
+.env.*
+!.env.example
+/data/*
+!/data/.gitkeep
+/models/
+/exports/
+*.gguf
+*.duckdb
+*.duckdb.wal
+*.parquet
+node_modules/
+.venv/
+__pycache__/
+.DS_Store
+.vscode/
